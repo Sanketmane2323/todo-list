@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+#React To-Do List App with Firebase and Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple to-do list application built using React, Tailwind CSS, and Firebase. It allows users to create, edit, and delete tasks, and the data is stored in Firebase Firestore.
+
+##Features
+
+Add/Edit/Delete Tasks: Users can add new tasks, edit existing tasks, and mark tasks as completed. They can also delete tasks they no longer need.
+Real-time Data Sync: The application uses Firebase Firestore to store task data, ensuring real-time synchronization across multiple devices.
+Responsive Design: The user interface is designed to work seamlessly on various screen sizes, thanks to Tailwind CSS.
