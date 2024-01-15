@@ -10,3 +10,7 @@ body{
   font-family: 'Roboto', sans-serif;
   /* background-image: url("public/bg.jpg"); */
 }
+
+.custom-bg{
+  background: url(../public/bg1.jpg);
+}

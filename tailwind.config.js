@@ -4,8 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: (_) => ({
-        "custom-bg":
-          "url(/Users/sanketmane/Documents/React js/todo app/public/bg.jpg)",
+        
       }),
     },
   },

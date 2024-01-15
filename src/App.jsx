@@ -73,7 +73,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col gap-4 justify-center items-center p-6 bg-custom-bg bg-center bg-cover">
+    <div className="min-h-screen flex flex-col gap-4 justify-center items-center p-6 custom-bg bg-center bg-cover">
       <div className="bg-gray-100 p-6  shadow-sm rounded w-full max-w-lg lg:w-1/4">
         <h1 className="text-3xl text-center font-bold mb-4">ToDo List</h1>
         <div className="flex ">
